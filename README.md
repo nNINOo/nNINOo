@@ -1,6 +1,8 @@
-### Hi ! I am Gabriel 👋
+### Hi ! I am Nino 👋
 
-> 👨🏻‍💻 Web Front-end Developer
+´´´ 👨🏻‍💻 Web Front-end Developer ´´´
+
+### Tech Stack
 
 <!--
 **nNINOo/nNINOo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
