@@ -1,6 +1,6 @@
 ### Hi ! I am Nino 👋
 
-´´´ 👨🏻‍💻 Web Front-end Developer ´´´
+``` 👨🏻‍💻 Web Front-end Developer ```
 
 ### Tech Stack
 
